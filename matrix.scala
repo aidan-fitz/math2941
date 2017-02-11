@@ -1,3 +1,5 @@
+package matrix
+
 import scala.collection.mutable.HashMap
 import scala.collection._
 
